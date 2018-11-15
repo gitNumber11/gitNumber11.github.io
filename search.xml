@@ -7,9 +7,25 @@
       <link href="/2018/11/15/first-post/"/>
       <url>/2018/11/15/first-post/</url>
       
-        <content type="html"><![CDATA[<h2 id="제목"><a href="#제목" class="headerlink" title="제목"></a>제목</h2><p>첫번째 포스트</p>]]></content>
+        <content type="html"><![CDATA[<h3 id="Related-Posts"><a href="#Related-Posts" class="headerlink" title="Related Posts"></a>Related Posts</h3>]]></content>
       
       
+      <categories>
+          
+          <category> web </category>
+          
+          <category> hexo </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> web </tag>
+            
+            <tag> hexo </tag>
+            
+        </tags>
       
     </entry>
     
